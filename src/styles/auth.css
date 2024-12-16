@@ -1,0 +1,25 @@
+.auth-wrap{
+    background-image: url("/auth/bg-patterns.svg");
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+.auth_title{
+    font-size: 30px;
+    line-height: 38px;
+    color: #101828;
+}
+.frm_cr{
+    color: #667085;
+    font-size: 16px;
+    line-height: 24px;
+}
+.frm-alink{
+    font-size: 12px;
+    line-height: 18px;
+    color: #475467;
+}
+.afrm-label{
+    font-size: 14px;
+    line-height: 20px;
+    color: #101828;
+}
